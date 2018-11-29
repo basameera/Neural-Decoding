@@ -1,1 +1,4 @@
+.gitignore
 69dataset2.mat
+.ipynb_checkpoints/*
+*SAM*
